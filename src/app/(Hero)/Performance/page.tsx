@@ -6,5 +6,5 @@ export const metadata: Metadata = {
   title: 'Performance',
 }
 export default function Page() {
-  return <Hero imgUrl={Star} altTxt="Home" content="Welcome to our Performance" />
+  return <Hero imgUrl={Star} altTxt="Home" content="The Brilliant Performance" />
 }
